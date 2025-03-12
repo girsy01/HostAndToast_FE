@@ -4,6 +4,10 @@
 
 Host and Toast is a platform where home chefs can share their delicious, home-cooked meals, and food lovers can easily book and enjoy them. We provide an authentic dining experience by connecting passionate cooks with those craving homemade food. Our platform supports seamless payments, user ratings for trust and validation, location-based meal discovery, and more—making home-cooked meals accessible to everyone.
 
+## Link to Website
+
+https://hostandtoast.netlify.app/
+
 ## Tech stack
 
 Built with React JS, Node JS, Express, CSS & HTML.
